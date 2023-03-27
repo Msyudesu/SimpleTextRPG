@@ -1,0 +1,11 @@
+F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\bin\Debug\MsyuRPGConsoleUI.exe.config
+F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\bin\Debug\MsyuRPGConsoleUI.exe
+F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\bin\Debug\MsyuRPGConsoleUI.pdb
+F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\bin\Debug\GameLogicLibrary.dll
+F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\bin\Debug\GameLogicLibrary.pdb
+F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.csproj.CoreCompileInputs.cache
+F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.csproj.CopyComplete
+F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.exe
+F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.pdb
+F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.csproj.AssemblyReference.cache
+F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.csproj.SuggestedBindingRedirects.cache
