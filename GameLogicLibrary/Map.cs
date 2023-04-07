@@ -76,7 +76,6 @@ namespace GameLogicLibrary
         {
             WorldMap[player.yPosition][player.xPosition] = '@';
             WorldMap[y][x] = BaseWorldMap[y][x];
-            Console.WriteLine(this);
         }
     }
 }

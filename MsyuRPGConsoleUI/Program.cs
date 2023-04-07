@@ -12,14 +12,14 @@ namespace MsyuRPGConsoleUI
             // Simulated For now.
             Map gamemap = new Map(level: 1);
             Player player = new Player("Msyu", "Rogue");
-
-            Console.WriteLine(gamemap);
             int x = player.xPosition = 3;
             int y = player.yPosition = 27;
             gamemap.WorldMap[y][x] = '@';
 
             while (true)
             {
+                Console.Clear();
+                Console.WriteLine(gamemap);
                 Console.WriteLine($"Player is currently at: X: {player.xPosition}, Y: {player.yPosition}");
                 Console.WriteLine("Where to move to? (N, E, S, W)");
                 char moveOption;
