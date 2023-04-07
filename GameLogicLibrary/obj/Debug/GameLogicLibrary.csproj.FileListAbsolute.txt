@@ -4,3 +4,9 @@ F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\GameLogicLibrary\obj\Debug\GameLog
 F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\GameLogicLibrary\obj\Debug\GameLogicLibrary.dll
 F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\GameLogicLibrary\obj\Debug\GameLogicLibrary.pdb
 F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\GameLogicLibrary\obj\Debug\GameLogicLibrary.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\GameLogicLibrary\bin\Debug\GameLogicLibrary.dll
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\GameLogicLibrary\bin\Debug\GameLogicLibrary.pdb
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\GameLogicLibrary\obj\Debug\GameLogicLibrary.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\GameLogicLibrary\obj\Debug\GameLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\GameLogicLibrary\obj\Debug\GameLogicLibrary.dll
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\GameLogicLibrary\obj\Debug\GameLogicLibrary.pdb

@@ -10,11 +10,10 @@ namespace MsyuRPGConsoleUI
         static void Main()
         {
             // Simulated For now.
-            Map gamemap = new Map();
+            Map gamemap = new Map(level:1);
             Player player = new Player("Msyu", "Rogue");
 
-            gamemap.LoadMap(1);
-            gamemap.RenderToConsole();
+            Console.WriteLine(gamemap);
             int x = player.xPosition = 3;
             int y = player.yPosition = 27;
             gamemap.WorldMap[y][x] = '@';

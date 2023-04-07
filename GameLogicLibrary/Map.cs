@@ -11,7 +11,12 @@ namespace GameLogicLibrary
         public int CurrentLevel { get; set; }
         private char[] illegalSpaces = new char[] { '#', '^', 'T' };
 
-        public void LoadMap(int level)
+        public Map(int level)
+        {
+            LoadMap(level);
+        }
+
+        private void LoadMap(int level)
         {
             string filepath = $"Maps/{level}_Level.txt";
             string mapdata;
@@ -29,10 +34,9 @@ namespace GameLogicLibrary
             }
         }
 
-        public void RenderToConsole()
+        public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            Console.Clear();
             for (int y = 0; y < WorldMap.Length; y++)
             {
                 for (int x = 0; x < WorldMap[y].Length; x++)
@@ -41,7 +45,7 @@ namespace GameLogicLibrary
                 }
                 sb.Append("\n");
             }
-            Console.WriteLine(sb.ToString());
+            return sb.ToString();
         }
 
         public void SaveToTxtFile()
@@ -61,11 +65,10 @@ namespace GameLogicLibrary
             }
         }
 
-        public bool MoveAttemptIsValid(int x, int y)
+        public bool MoveAttemptIsValid(int x, int y) 
         {
             foreach (char c in illegalSpaces)
-                if (WorldMap[y][x] == c)
-                    return false;
+                if (WorldMap[y][x] == c) { return false; }
             return true;
         }
 
@@ -73,7 +76,7 @@ namespace GameLogicLibrary
         {
             WorldMap[player.yPosition][player.xPosition] = '@';
             WorldMap[y][x] = BaseWorldMap[y][x];
-            RenderToConsole();
+            Console.WriteLine(this);
         }
     }
 }

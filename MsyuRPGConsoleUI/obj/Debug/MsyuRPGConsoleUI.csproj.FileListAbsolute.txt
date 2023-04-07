@@ -9,3 +9,14 @@ F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPG
 F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.pdb
 F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.csproj.AssemblyReference.cache
 F:\Code Projects\For Fun\MsyuRPG\Game\MsyuRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\MsyuRPGConsoleUI\bin\Debug\MsyuRPGConsoleUI.exe.config
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\MsyuRPGConsoleUI\bin\Debug\MsyuRPGConsoleUI.exe
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\MsyuRPGConsoleUI\bin\Debug\MsyuRPGConsoleUI.pdb
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\MsyuRPGConsoleUI\bin\Debug\GameLogicLibrary.dll
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\MsyuRPGConsoleUI\bin\Debug\GameLogicLibrary.pdb
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.csproj.CopyComplete
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.exe
+C:\Users\Alex\Desktop\Code Projects\SimpleTextRPG\MsyuRPGConsoleUI\obj\Debug\MsyuRPGConsoleUI.pdb
