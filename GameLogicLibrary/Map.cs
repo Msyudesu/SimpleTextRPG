@@ -72,9 +72,9 @@ namespace GameLogicLibrary
             return true;
         }
 
-        public void UpdatePlayerPosition(Player player, int x, int y)
+        public void UpdatePlayerPosition(IMovableEntity entity, int x, int y)
         {
-            WorldMap[player.yPosition][player.xPosition] = '@';
+            WorldMap[entity.yPosition][entity.xPosition] = '@';
             WorldMap[y][x] = BaseWorldMap[y][x];
         }
     }
