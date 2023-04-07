@@ -18,7 +18,7 @@ namespace GameLogicLibrary
 
         private void LoadMap(int level)
         {
-            string filepath = $"Maps/{level}_Level.txt";
+            string filepath = $"{App.RootDirectory}Maps\\{level}_Level.txt";
             string mapdata;
             using (StreamReader r = new StreamReader(filepath))
             {
@@ -50,7 +50,7 @@ namespace GameLogicLibrary
 
         public void SaveToTxtFile()
         {
-            string filepath = $"Maps/{CurrentLevel}_Level.txt";
+            string filepath = $"{App.RootDirectory}Maps\\{CurrentLevel}_Level.txt";
             StringBuilder sb = new StringBuilder();
             using (StreamWriter w = new StreamWriter(filepath))
             {
